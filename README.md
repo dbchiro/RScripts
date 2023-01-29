@@ -3,7 +3,7 @@ Basic RScripts to connect dbChiro db
 
 Copy `.env.sample` to `.env` and `custom.R.sample` to `custom.R`
 
-Update all `DB_*` variables
+Update all `DB_*` variables in `.env` file.
 
 Customize custom.R script as you want. Packages used are:
 * RPostgreSQL: https://cran.r-project.org/web/packages/RPostgreSQL/index.html
