@@ -18,7 +18,6 @@ dbport = Sys.getenv("DBPORT")
 dbuser = Sys.getenv("DBUSER")
 dbpwd = Sys.getenv("DBPWD")
 
-print(dbpwd)
 # connexion a la BDD
 con_db <- dbConnect(drv, 
        dbname = dbname,
