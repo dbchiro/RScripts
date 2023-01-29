@@ -1,7 +1,7 @@
 # RScripts
 Basic RScripts to connect dbChiro db
 
-Copy `.env.sample` to `.env` and `custom.R.sample` to `custom.R`
+Copy `.env.sample` to `.env` and `scripts/R/custom.R.sample` to `scripts/R/custom.R`
 
 Update all `DB_*` variables in `.env` file.
 
