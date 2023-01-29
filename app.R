@@ -11,5 +11,4 @@ source("install_deps.R")
 source("db_connect.R")
 
 
-sights <- dbGetQuery(con_db, statement = paste("select * from accounts_profile"))
-print(sights)
+source("custom.R")
